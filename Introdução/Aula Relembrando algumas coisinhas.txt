@@ -1,0 +1,11 @@
+Comandos básicos
+
+git add: Adiciona arquivos no repositório e deixa pronto para ser "comitado". 
+	Parâmetros: . ou * para enviar todos os arquivos. O nome do arquivo específico também pode ser informado.
+
+git status: Verifica o estado do repositório e sugere as ações que podem ser realizadas a partir daquele ponto.
+
+git commit -m: Realiza o versionamento dos arquivos que foram adicionados. 
+	O parâmetro -m é para poder adicionar um comentário entre aspas.
+
+git push origin main: Envia os arquivos que foram comitados para o repositório remoto.
